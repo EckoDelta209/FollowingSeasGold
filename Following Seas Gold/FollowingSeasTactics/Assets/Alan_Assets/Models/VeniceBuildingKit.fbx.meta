@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 7699ee07c94d34d42b00a56578018580
+timeCreated: 1542840089
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Door.000
+    100002: FloorDivider
+    100004: Roof.000
+    100006: Roof.001
+    100008: //RootNode
+    100010: Wall.000
+    100012: WallCorner.000
+    100014: Window.000
+    100016: Aqueduct_Arc.000
+    100018: Aqueduct_Arc.001
+    100020: Aqueduct_Arc.002
+    100022: Aqueduct_Base
+    100024: Aqueduct_Mid
+    400000: Door.000
+    400002: FloorDivider
+    400004: Roof.000
+    400006: Roof.001
+    400008: //RootNode
+    400010: Wall.000
+    400012: WallCorner.000
+    400014: Window.000
+    400016: Aqueduct_Arc.000
+    400018: Aqueduct_Arc.001
+    400020: Aqueduct_Arc.002
+    400022: Aqueduct_Base
+    400024: Aqueduct_Mid
+    2300000: Door.000
+    2300002: FloorDivider
+    2300004: Roof.000
+    2300006: Roof.001
+    2300008: Wall.000
+    2300010: WallCorner.000
+    2300012: Window.000
+    2300014: Aqueduct_Arc.000
+    2300016: Aqueduct_Arc.001
+    2300018: Aqueduct_Arc.002
+    2300020: Aqueduct_Base
+    2300022: Aqueduct_Mid
+    3300000: Door.000
+    3300002: FloorDivider
+    3300004: Roof.000
+    3300006: Roof.001
+    3300008: Wall.000
+    3300010: WallCorner.000
+    3300012: Window.000
+    3300014: Aqueduct_Arc.000
+    3300016: Aqueduct_Arc.001
+    3300018: Aqueduct_Arc.002
+    3300020: Aqueduct_Base
+    3300022: Aqueduct_Mid
+    4300000: Roof.000
+    4300002: Roof.001
+    4300004: FloorDivider
+    4300006: WallCorner.000
+    4300008: Door.000
+    4300010: Window.000
+    4300012: Wall.000
+    4300014: Aqueduct_Arc.002
+    4300016: Aqueduct_Arc.001
+    4300018: Aqueduct_Arc.000
+    4300020: Aqueduct_Mid
+    4300022: Aqueduct_Base
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

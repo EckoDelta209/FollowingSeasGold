@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 566f57f5480f08d4ba599fc4e58ef72b
+timeCreated: 1518211808
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boom_PROXY
+    100004: crossbow_grap_PROXY
+    100006: crossbow_harp_PROXY
+    100008: crossbowConnector01_PROXY
+    100010: crossbowConnector02_PROXY
+    100012: crossbowConnector03_PROXY
+    100014: crossbows_GRP
+    100016: gaff_PROXY
+    100018: geometry_GRP
+    100020: grapplingHook_PROXY
+    100022: group1
+    100024: group2
+    100026: harpoon_PROXY
+    100028: hull_PROXY
+    100030: joint1
+    100032: joint10
+    100034: joint11
+    100036: joint12
+    100038: joint13
+    100040: joint14
+    100042: joint15
+    100044: joint16
+    100046: joint17
+    100048: joint18
+    100050: joint19
+    100052: joint2
+    100054: joint3
+    100056: joint4
+    100058: joint5
+    100060: joint6
+    100062: joint7
+    100064: joint8
+    100066: joint9
+    100068: mast_PROXY
+    100070: oar_PROXY
+    100072: oar_PROXY1
+    100074: proxy_GRP
+    100076: reel_PROXY
+    100078: rope_PROXY
+    100080: rudder_PROXY
+    100082: sail_GRP
+    100084: sail_PROXY
+    100086: turnPiece_PROXY
+    400000: //RootNode
+    400002: boom_PROXY
+    400004: crossbow_grap_PROXY
+    400006: crossbow_harp_PROXY
+    400008: crossbowConnector01_PROXY
+    400010: crossbowConnector02_PROXY
+    400012: crossbowConnector03_PROXY
+    400014: crossbows_GRP
+    400016: gaff_PROXY
+    400018: geometry_GRP
+    400020: grapplingHook_PROXY
+    400022: group1
+    400024: group2
+    400026: harpoon_PROXY
+    400028: hull_PROXY
+    400030: joint1
+    400032: joint10
+    400034: joint11
+    400036: joint12
+    400038: joint13
+    400040: joint14
+    400042: joint15
+    400044: joint16
+    400046: joint17
+    400048: joint18
+    400050: joint19
+    400052: joint2
+    400054: joint3
+    400056: joint4
+    400058: joint5
+    400060: joint6
+    400062: joint7
+    400064: joint8
+    400066: joint9
+    400068: mast_PROXY
+    400070: oar_PROXY
+    400072: oar_PROXY1
+    400074: proxy_GRP
+    400076: reel_PROXY
+    400078: rope_PROXY
+    400080: rudder_PROXY
+    400082: sail_GRP
+    400084: sail_PROXY
+    400086: turnPiece_PROXY
+    2300000: boom_PROXY
+    2300002: crossbow_grap_PROXY
+    2300004: crossbow_harp_PROXY
+    2300006: crossbowConnector01_PROXY
+    2300008: crossbowConnector02_PROXY
+    2300010: crossbowConnector03_PROXY
+    2300012: gaff_PROXY
+    2300014: grapplingHook_PROXY
+    2300016: harpoon_PROXY
+    2300018: hull_PROXY
+    2300020: mast_PROXY
+    2300022: oar_PROXY
+    2300024: oar_PROXY1
+    2300026: reel_PROXY
+    2300028: rope_PROXY
+    2300030: rudder_PROXY
+    2300032: turnPiece_PROXY
+    3300000: boom_PROXY
+    3300002: crossbow_grap_PROXY
+    3300004: crossbow_harp_PROXY
+    3300006: crossbowConnector01_PROXY
+    3300008: crossbowConnector02_PROXY
+    3300010: crossbowConnector03_PROXY
+    3300012: gaff_PROXY
+    3300014: grapplingHook_PROXY
+    3300016: harpoon_PROXY
+    3300018: hull_PROXY
+    3300020: mast_PROXY
+    3300022: oar_PROXY
+    3300024: oar_PROXY1
+    3300026: reel_PROXY
+    3300028: rope_PROXY
+    3300030: rudder_PROXY
+    3300032: turnPiece_PROXY
+    4300000: hull_PROXY
+    4300002: oar_PROXY
+    4300004: rudder_PROXY
+    4300006: sail_PROXY
+    4300008: gaff_PROXY
+    4300010: boom_PROXY
+    4300012: mast_PROXY
+    4300014: turnPiece_PROXY
+    4300016: rope_PROXY
+    4300018: reel_PROXY
+    4300020: crossbow_grap_PROXY
+    4300022: grapplingHook_PROXY
+    4300024: crossbow_harp_PROXY
+    4300026: harpoon_PROXY
+    4300028: crossbowConnector01_PROXY
+    4300030: crossbowConnector02_PROXY
+    4300032: crossbowConnector03_PROXY
+    4300034: oar_PROXY1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: sail_PROXY
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

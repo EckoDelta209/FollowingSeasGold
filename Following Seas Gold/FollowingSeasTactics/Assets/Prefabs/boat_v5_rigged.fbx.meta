@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 3f740d2199568d945a795bba9473bfa0
+timeCreated: 1517605511
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boom_PROXY
+    100004: crossbow_grap_PROXY
+    100006: crossbow_harp_PROXY
+    100008: crossbowConnector01_PROXY
+    100010: crossbowConnector02_PROXY
+    100012: crossbowConnector03_PROXY
+    100014: crossbows_GRP
+    100016: gaff_PROXY
+    100018: geometry_GRP
+    100020: grapplingHook_PROXY
+    100022: group1
+    100024: harpoon_PROXY
+    100026: hull_PROXY
+    100028: joint1
+    100030: joint10
+    100032: joint11
+    100034: joint12
+    100036: joint13
+    100038: joint14
+    100040: joint15
+    100042: joint16
+    100044: joint17
+    100046: joint18
+    100048: joint19
+    100050: joint2
+    100052: joint3
+    100054: joint4
+    100056: joint5
+    100058: joint6
+    100060: joint7
+    100062: joint8
+    100064: joint9
+    100066: mast_PROXY
+    100068: oar_PROXY
+    100070: proxy_GRP
+    100072: reel_PROXY
+    100074: ren_GRP
+    100076: rope_PROXY
+    100078: rudder_PROXY
+    100080: sail_GRP
+    100082: sail_PROXY
+    100084: turnPiece_PROXY
+    400000: //RootNode
+    400002: boom_PROXY
+    400004: crossbow_grap_PROXY
+    400006: crossbow_harp_PROXY
+    400008: crossbowConnector01_PROXY
+    400010: crossbowConnector02_PROXY
+    400012: crossbowConnector03_PROXY
+    400014: crossbows_GRP
+    400016: gaff_PROXY
+    400018: geometry_GRP
+    400020: grapplingHook_PROXY
+    400022: group1
+    400024: harpoon_PROXY
+    400026: hull_PROXY
+    400028: joint1
+    400030: joint10
+    400032: joint11
+    400034: joint12
+    400036: joint13
+    400038: joint14
+    400040: joint15
+    400042: joint16
+    400044: joint17
+    400046: joint18
+    400048: joint19
+    400050: joint2
+    400052: joint3
+    400054: joint4
+    400056: joint5
+    400058: joint6
+    400060: joint7
+    400062: joint8
+    400064: joint9
+    400066: mast_PROXY
+    400068: oar_PROXY
+    400070: proxy_GRP
+    400072: reel_PROXY
+    400074: ren_GRP
+    400076: rope_PROXY
+    400078: rudder_PROXY
+    400080: sail_GRP
+    400082: sail_PROXY
+    400084: turnPiece_PROXY
+    2300000: boom_PROXY
+    2300002: crossbow_grap_PROXY
+    2300004: crossbow_harp_PROXY
+    2300006: crossbowConnector01_PROXY
+    2300008: crossbowConnector02_PROXY
+    2300010: crossbowConnector03_PROXY
+    2300012: gaff_PROXY
+    2300014: grapplingHook_PROXY
+    2300016: harpoon_PROXY
+    2300018: hull_PROXY
+    2300020: mast_PROXY
+    2300022: oar_PROXY
+    2300024: reel_PROXY
+    2300026: rope_PROXY
+    2300028: rudder_PROXY
+    2300030: turnPiece_PROXY
+    3300000: boom_PROXY
+    3300002: crossbow_grap_PROXY
+    3300004: crossbow_harp_PROXY
+    3300006: crossbowConnector01_PROXY
+    3300008: crossbowConnector02_PROXY
+    3300010: crossbowConnector03_PROXY
+    3300012: gaff_PROXY
+    3300014: grapplingHook_PROXY
+    3300016: harpoon_PROXY
+    3300018: hull_PROXY
+    3300020: mast_PROXY
+    3300022: oar_PROXY
+    3300024: reel_PROXY
+    3300026: rope_PROXY
+    3300028: rudder_PROXY
+    3300030: turnPiece_PROXY
+    4300000: hull_PROXY
+    4300002: oar_PROXY
+    4300004: rudder_PROXY
+    4300006: sail_PROXY
+    4300008: gaff_PROXY
+    4300010: boom_PROXY
+    4300012: mast_PROXY
+    4300014: turnPiece_PROXY
+    4300016: rope_PROXY
+    4300018: reel_PROXY
+    4300020: crossbow_grap_PROXY
+    4300022: grapplingHook_PROXY
+    4300024: crossbow_harp_PROXY
+    4300026: harpoon_PROXY
+    4300028: crossbowConnector01_PROXY
+    4300030: crossbowConnector02_PROXY
+    4300032: crossbowConnector03_PROXY
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: sail_PROXY
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

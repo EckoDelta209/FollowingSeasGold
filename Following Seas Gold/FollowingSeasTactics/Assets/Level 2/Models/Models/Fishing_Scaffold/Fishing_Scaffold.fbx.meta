@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 6040c3ddf2c4d6742a580e31d1c1dfec
+timeCreated: 1542252594
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Fishing_Net
+    100002: //RootNode
+    100004: Rope_Hanging
+    100006: Rope_Knot
+    100008: Rope_Knot1
+    100010: Rope_Knot2
+    100012: Rope_Knot3
+    100014: Rope_Knot4
+    100016: Rope_Knot5
+    100018: Rope_Knot6
+    100020: Stick
+    100022: Stick1
+    100024: Stick2
+    100026: Stick3
+    100028: Stick4
+    100030: Stick5
+    100032: Stick6
+    400000: Fishing_Net
+    400002: //RootNode
+    400004: Rope_Hanging
+    400006: Rope_Knot
+    400008: Rope_Knot1
+    400010: Rope_Knot2
+    400012: Rope_Knot3
+    400014: Rope_Knot4
+    400016: Rope_Knot5
+    400018: Rope_Knot6
+    400020: Stick
+    400022: Stick1
+    400024: Stick2
+    400026: Stick3
+    400028: Stick4
+    400030: Stick5
+    400032: Stick6
+    2300000: Fishing_Net
+    2300002: Rope_Hanging
+    2300004: Rope_Knot
+    2300006: Rope_Knot1
+    2300008: Rope_Knot2
+    2300010: Rope_Knot3
+    2300012: Rope_Knot4
+    2300014: Rope_Knot5
+    2300016: Rope_Knot6
+    2300018: Stick
+    2300020: Stick1
+    2300022: Stick2
+    2300024: Stick3
+    2300026: Stick4
+    2300028: Stick5
+    2300030: Stick6
+    3300000: Fishing_Net
+    3300002: Rope_Hanging
+    3300004: Rope_Knot
+    3300006: Rope_Knot1
+    3300008: Rope_Knot2
+    3300010: Rope_Knot3
+    3300012: Rope_Knot4
+    3300014: Rope_Knot5
+    3300016: Rope_Knot6
+    3300018: Stick
+    3300020: Stick1
+    3300022: Stick2
+    3300024: Stick3
+    3300026: Stick4
+    3300028: Stick5
+    3300030: Stick6
+    4300000: Rope_Knot2
+    4300002: Stick
+    4300004: Stick2
+    4300006: Stick3
+    4300008: Stick4
+    4300010: Stick5
+    4300012: Rope_Knot
+    4300014: Rope_Knot1
+    4300016: Rope_Knot3
+    4300018: Rope_Knot4
+    4300020: Stick6
+    4300022: Rope_Hanging
+    4300024: Rope_Knot5
+    4300026: Stick1
+    4300028: Fishing_Net
+    4300030: Rope_Knot6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

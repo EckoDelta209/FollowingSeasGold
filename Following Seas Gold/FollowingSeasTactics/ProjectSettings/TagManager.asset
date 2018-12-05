@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Harpoon
+  - Grapple
+  - Wall
+  - Crate
+  - Fire
+  - Ground
+  - IceSlide
+  - Barrel
+  - Exploding
+  - ETower
+  - Steam
+  - Crystal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Current
+  - Harpoon
+  - Grapple
+  - Ground
+  - Ghosts
+  - Arrows
+  - SlidingDoor
+  - InvisWall
+  - LineFX
+  - Shields
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

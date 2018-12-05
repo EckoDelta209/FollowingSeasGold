@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: b31e637921a729147b56e24515648bff
+timeCreated: 1542254932
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Frond
+    100002: Frond12
+    100004: Frond13
+    100006: Frond14
+    100008: Frond15
+    100010: Frond16
+    100012: Frond17
+    100014: Frond18
+    100016: Frond19
+    100018: Frond20
+    100020: Frond21
+    100022: Frond22
+    100024: //RootNode
+    100026: Palm_Fronds
+    100028: Palm_Trunk_B
+    400000: Frond
+    400002: Frond12
+    400004: Frond13
+    400006: Frond14
+    400008: Frond15
+    400010: Frond16
+    400012: Frond17
+    400014: Frond18
+    400016: Frond19
+    400018: Frond20
+    400020: Frond21
+    400022: Frond22
+    400024: //RootNode
+    400026: Palm_Fronds
+    400028: Palm_Trunk_B
+    2300000: Frond
+    2300002: Frond12
+    2300004: Frond13
+    2300006: Frond14
+    2300008: Frond15
+    2300010: Frond16
+    2300012: Frond17
+    2300014: Frond18
+    2300016: Frond19
+    2300018: Frond20
+    2300020: Frond21
+    2300022: Frond22
+    2300024: Palm_Trunk_B
+    3300000: Frond
+    3300002: Frond12
+    3300004: Frond13
+    3300006: Frond14
+    3300008: Frond15
+    3300010: Frond16
+    3300012: Frond17
+    3300014: Frond18
+    3300016: Frond19
+    3300018: Frond20
+    3300020: Frond21
+    3300022: Frond22
+    3300024: Palm_Trunk_B
+    4300000: Palm_Trunk_B
+    4300002: Frond
+    4300004: Frond12
+    4300006: Frond13
+    4300008: Frond14
+    4300010: Frond15
+    4300012: Frond17
+    4300014: Frond16
+    4300016: Frond18
+    4300018: Frond19
+    4300020: Frond20
+    4300022: Frond21
+    4300024: Frond22
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

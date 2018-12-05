@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 65fcc001b0c64ad4d8fd339f95840f76
+timeCreated: 1542257440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone1
+    100004: //RootNode
+    100006: Frond
+    100008: Frond12
+    100010: Frond13
+    100012: Frond14
+    100014: Frond15
+    100016: Frond16
+    100018: Frond17
+    100020: Frond18
+    100022: Frond19
+    100024: Frond20
+    100026: Palm_C1
+    100028: Palm_Trunk_B1
+    100030: Palm_Trunk_B2
+    100032: Palm_Trunk_C
+    100034: pPlane16
+    100036: pPlane17
+    100038: Rope_Torus51
+    100040: Rope_Torus64
+    100042: Rope_Torus65
+    100044: Rope_Torus66
+    100046: Rope_Torus67
+    100048: Rope_Torus68
+    100050: Rope_Torus69
+    100052: Rope_Torus70
+    100054: Rope_Torus71
+    100056: Rope_Torus72
+    400000: Bone
+    400002: Bone1
+    400004: //RootNode
+    400006: Frond
+    400008: Frond12
+    400010: Frond13
+    400012: Frond14
+    400014: Frond15
+    400016: Frond16
+    400018: Frond17
+    400020: Frond18
+    400022: Frond19
+    400024: Frond20
+    400026: Palm_C1
+    400028: Palm_Trunk_B1
+    400030: Palm_Trunk_B2
+    400032: Palm_Trunk_C
+    400034: pPlane16
+    400036: pPlane17
+    400038: Rope_Torus51
+    400040: Rope_Torus64
+    400042: Rope_Torus65
+    400044: Rope_Torus66
+    400046: Rope_Torus67
+    400048: Rope_Torus68
+    400050: Rope_Torus69
+    400052: Rope_Torus70
+    400054: Rope_Torus71
+    400056: Rope_Torus72
+    2300000: Bone
+    2300002: Bone1
+    2300004: Frond
+    2300006: Frond12
+    2300008: Frond13
+    2300010: Frond14
+    2300012: Frond15
+    2300014: Frond16
+    2300016: Frond17
+    2300018: Frond18
+    2300020: Frond19
+    2300022: Frond20
+    2300024: Palm_Trunk_B1
+    2300026: Palm_Trunk_B2
+    2300028: Palm_Trunk_C
+    2300030: pPlane16
+    2300032: pPlane17
+    2300034: Rope_Torus51
+    2300036: Rope_Torus64
+    2300038: Rope_Torus65
+    2300040: Rope_Torus66
+    2300042: Rope_Torus67
+    2300044: Rope_Torus68
+    2300046: Rope_Torus69
+    2300048: Rope_Torus70
+    2300050: Rope_Torus71
+    2300052: Rope_Torus72
+    3300000: Bone
+    3300002: Bone1
+    3300004: Frond
+    3300006: Frond12
+    3300008: Frond13
+    3300010: Frond14
+    3300012: Frond15
+    3300014: Frond16
+    3300016: Frond17
+    3300018: Frond18
+    3300020: Frond19
+    3300022: Frond20
+    3300024: Palm_Trunk_B1
+    3300026: Palm_Trunk_B2
+    3300028: Palm_Trunk_C
+    3300030: pPlane16
+    3300032: pPlane17
+    3300034: Rope_Torus51
+    3300036: Rope_Torus64
+    3300038: Rope_Torus65
+    3300040: Rope_Torus66
+    3300042: Rope_Torus67
+    3300044: Rope_Torus68
+    3300046: Rope_Torus69
+    3300048: Rope_Torus70
+    3300050: Rope_Torus71
+    3300052: Rope_Torus72
+    4300000: Bone1
+    4300002: pPlane17
+    4300004: pPlane16
+    4300006: Palm_Trunk_B2
+    4300008: Rope_Torus70
+    4300010: Rope_Torus68
+    4300012: Rope_Torus67
+    4300014: Rope_Torus66
+    4300016: Rope_Torus65
+    4300018: Rope_Torus69
+    4300020: Palm_Trunk_B1
+    4300022: Rope_Torus64
+    4300024: Bone
+    4300026: Rope_Torus51
+    4300028: Palm_Trunk_C
+    4300030: Frond
+    4300032: Frond12
+    4300034: Frond13
+    4300036: Frond14
+    4300038: Frond15
+    4300040: Frond17
+    4300042: Frond16
+    4300044: Frond18
+    4300046: Frond19
+    4300048: Frond20
+    4300050: Rope_Torus71
+    4300052: Rope_Torus72
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

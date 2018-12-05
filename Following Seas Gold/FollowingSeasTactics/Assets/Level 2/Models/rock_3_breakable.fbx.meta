@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 8871a6b67d635a04d9d62ef9cbe0ae50
+timeCreated: 1543731998
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: shard51
+    100004: shard52
+    100006: shard53
+    100008: shard54
+    100010: shard55
+    100012: shard56
+    100014: shard57
+    100016: shard58
+    100018: shard59
+    100020: shard60
+    100022: shard61
+    100024: shard62
+    100026: shard63
+    100028: shard64
+    100030: shard65
+    100032: shard66
+    100034: shard67
+    100036: shard68
+    100038: shard69
+    100040: shard70
+    100042: shard71
+    100044: shard72
+    100046: shard73
+    100048: shard74
+    100050: shard75
+    100052: shard76
+    400000: //RootNode
+    400002: shard51
+    400004: shard52
+    400006: shard53
+    400008: shard54
+    400010: shard55
+    400012: shard56
+    400014: shard57
+    400016: shard58
+    400018: shard59
+    400020: shard60
+    400022: shard61
+    400024: shard62
+    400026: shard63
+    400028: shard64
+    400030: shard65
+    400032: shard66
+    400034: shard67
+    400036: shard68
+    400038: shard69
+    400040: shard70
+    400042: shard71
+    400044: shard72
+    400046: shard73
+    400048: shard74
+    400050: shard75
+    400052: shard76
+    2300000: shard51
+    2300002: shard52
+    2300004: shard53
+    2300006: shard54
+    2300008: shard55
+    2300010: shard56
+    2300012: shard57
+    2300014: shard58
+    2300016: shard59
+    2300018: shard60
+    2300020: shard61
+    2300022: shard62
+    2300024: shard63
+    2300026: shard64
+    2300028: shard65
+    2300030: shard66
+    2300032: shard67
+    2300034: shard68
+    2300036: shard69
+    2300038: shard70
+    2300040: shard71
+    2300042: shard72
+    2300044: shard73
+    2300046: shard74
+    2300048: shard75
+    2300050: shard76
+    3300000: shard51
+    3300002: shard52
+    3300004: shard53
+    3300006: shard54
+    3300008: shard55
+    3300010: shard56
+    3300012: shard57
+    3300014: shard58
+    3300016: shard59
+    3300018: shard60
+    3300020: shard61
+    3300022: shard62
+    3300024: shard63
+    3300026: shard64
+    3300028: shard65
+    3300030: shard66
+    3300032: shard67
+    3300034: shard68
+    3300036: shard69
+    3300038: shard70
+    3300040: shard71
+    3300042: shard72
+    3300044: shard73
+    3300046: shard74
+    3300048: shard75
+    3300050: shard76
+    4300000: shard51
+    4300002: shard52
+    4300004: shard53
+    4300006: shard54
+    4300008: shard55
+    4300010: shard56
+    4300012: shard57
+    4300014: shard58
+    4300016: shard59
+    4300018: shard61
+    4300020: shard62
+    4300022: shard63
+    4300024: shard64
+    4300026: shard65
+    4300028: shard66
+    4300030: shard67
+    4300032: shard68
+    4300034: shard69
+    4300036: shard70
+    4300038: shard71
+    4300040: shard72
+    4300042: shard73
+    4300044: shard74
+    4300046: shard75
+    4300048: shard76
+    4300050: shard60
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
